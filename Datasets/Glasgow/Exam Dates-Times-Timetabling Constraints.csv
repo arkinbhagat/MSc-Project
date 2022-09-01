@@ -1,0 +1,6 @@
+Timetabling Constraints - All Exam Diets ,
+Set Constraints ,Preferred Constraints 
+Maximum 2 exams in 1 day,Maximum 1 exam in 1 day
+No more than 3 consecutive exams over 2 days ,No more than 3 consecutive exams over 2 days 
+No evening exams greater than 90 minutes ,No evening exams greater than 60 minutes 
+Use Saturday's within diet only - No evening slot,No Saturday's
